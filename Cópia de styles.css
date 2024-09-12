@@ -1,0 +1,53 @@
+body {
+    color: rgb(208, 255, 97);
+    background: black;
+}
+
+header {
+
+}
+header {
+    border: solid 2px rgb(197, 216, 100);
+}
+header {
+    border: solid 2px rgb(116, 228, 42);
+}
+header {
+    border-bottom: solid 2px rgb(181, 228, 42);
+}
+header {
+    border-bottom: solid 2px rgb(230, 242, 65);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(185, 228, 42);
+}
+section {
+    background: rgb(208, 238, 55);
+}
+section {
+    background: rgb(252, 225, 87);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+section {
+    background: rgb(178, 224, 118);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+.chamada-texto {
+    margin-right: 20px;
+}
+/* código omitido */
+
+section {
+    background: rgb(176, 248, 61);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
